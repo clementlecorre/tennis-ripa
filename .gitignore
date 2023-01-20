@@ -1,0 +1,5 @@
+.DS_Store
+.database/
+.idea/
+node_modules/
+docker-compose.yaml

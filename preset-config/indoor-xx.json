@@ -1,0 +1,23 @@
+{
+  "name": "indoor with xx",
+  "locations": [
+    "Suzanne Lenglen",
+    "Docteurs Déjerine",
+    "Moureu - Baudricourt",
+    "Elisabeth",
+    "Carnot",
+    "Edouard Pailleron",
+    "Sept arpents",
+    "Alain Mimoun"
+  ],
+  "hours": [
+    "19"
+  ],
+  "priceType": [
+    "Tarif plein",
+    "Tarif réduit"
+  ],
+  "courtType": [
+    "Couvert"
+  ]
+}

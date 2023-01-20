@@ -1,0 +1,33 @@
+{
+  "name": "tennis-ripa",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dayjs": "^1.11.5",
+    "node-schedule": "^2.1.0",
+    "pg": "^8.8.0",
+    "playwright": "^1.27.0",
+    "telegraf": "^4.8.5"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "lint": "npx eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clementlecorre/tennis-ripa.git"
+  },
+  "author": "clementlecorre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clementlecorre/tennis-ripa/issues"
+  },
+  "homepage": "https://github.com/clementlecorre/tennis-ripa#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "winston": "^3.8.2"
+  }
+}
